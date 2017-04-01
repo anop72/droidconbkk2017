@@ -11,7 +11,7 @@ Mobile banking solution for visually impaired, blind, low vision, elderly, illit
 ### Better Android Development with Kotlin & Gradle
 Check this out https://www.youtube.com/watch?v=_DaZQ374Chc
 
-### Validate with Firebase
+### Validate ideas with Firebase
 by using A/B Testing with remote config https://firebase.google.com/docs/remote-config/config-analytics
 
 ### Keep architecture simple
